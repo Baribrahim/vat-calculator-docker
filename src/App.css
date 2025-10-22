@@ -1,6 +1,9 @@
 .field {
   width: 300px;
   padding-bottom: 20px;
+  background: linear-gradient(135deg, #E8F4F8 0%, #B8DDE8 100%);
+  padding: 15px;
+  border-radius: 8px;
 }
 
 .colour-border {
